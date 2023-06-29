@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julio</h1>
-<h3 align="center">A passionate iOS developer from Uruguay</h3>
+<h1 align="center">Hi there 👋</h1>
+<h4 align="center">I'm Julio from Uruguay, a Senior Engineer with +10 years of experience in the software industry, specializing in mobile applications for the past 5 years. My primary expertise lies in iOS app development using Swift. Throughout my career, I have successfully applied various iOS architectural patterns, including MVC, MVVM, MVP, and VIPER. As a dedicated advocate of clean code, I am fully committed to implementing best practices, such as SOLID. I maintain an unwavering enthusiasm for staying abreast of the latest technologies, consistently seeking opportunities to expand my skill set.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joule87&label=Profile%20views&color=0e75b6&style=flat" alt="joule87" /> </p>
 
