@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/Joule87/Media/blob/master/apple-logo-gif.gif" width="450" height="295"></p>
 <br>
 <h1 align="center">Hi there 👋</h1>
-<h4 align="center">I'm Julio from Uruguay, a Senior Engineer with +10 years of experience in the software industry, specializing in mobile applications for the past 5 years. My primary expertise lies in iOS app development using Swift. Throughout my career, I have successfully applied various iOS architectural patterns, including MVC, MVVM, MVP, and VIPER. As a dedicated advocate of clean code, I am fully committed to implementing best practices, such as SOLID. I maintain an unwavering enthusiasm for staying abreast of the latest technologies, consistently seeking opportunities to expand my skill set.</h4>
+<h4 align="center">I'm Julio, a Senior Engineer with +10 years of experience in the software industry, specializing in mobile applications for the past 5 years. My primary expertise lies in iOS app development using Swift. Throughout my career, I have successfully applied various iOS architectural patterns, including MVC, MVVM, MVP, and VIPER. As a dedicated advocate of clean code, I am fully committed to implementing best practices, such as SOLID. I maintain an unwavering enthusiasm for staying abreast of the latest technologies, consistently seeking opportunities to expand my skill set.</h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joule87&label=Profile%20views&color=0e75b6&style=flat" alt="joule87" /> </p>
 <br>
